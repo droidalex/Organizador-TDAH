@@ -2,7 +2,7 @@
 
 Aplicativo desktop modular desenvolvido com Wails (Go + Svelte) para auxiliar pessoas com TDAH na organização de ideias e tarefas.
 
-![Organizador TDAH Pro](screenshot.png)
+<img width="1385" height="890" alt="image" src="https://github.com/user-attachments/assets/b767111d-64f5-474b-849a-316817b57a74" />
 
 ## Funcionalidades
 
