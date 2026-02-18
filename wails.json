@@ -1,0 +1,31 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "tdah-organizer",
+  "outputfilename": "tdah-organizer",
+  "frontend": {
+    "dir": "./frontend",
+    "install": "npm install",
+    "build": "npm run build",
+    "dev": "npm run dev",
+    "package": "npm install"
+  },
+  "author": {
+    "name": "TDAH Organizer",
+    "email": "tdah@example.com"
+  },
+  "info": {
+    "company": "TDAH Organizer",
+    "productName": "Organizador TDAH Pro",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright © 2024",
+    "comments": "Assistente de organização para pessoas com TDAH"
+  },
+  "bindings": {
+    "ts_generation": {
+      "outputType": "classes",
+      "prefix": "",
+      "suffix": ""
+    }
+  },
+  "wailsjsdir": "./frontend/src/wailsjs"
+}
