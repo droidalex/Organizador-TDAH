@@ -143,13 +143,7 @@ const modulos: Modulo[] = [
 - **Styling**: CSS customizado com variáveis CSS
 
 ## Licença
-
-MIT
-
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, abra uma issue ou pull request.
-
+GPL 3.0
 ---
 
 Desenvolvido com 💙 para a comunidade TDAH
