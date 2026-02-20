@@ -3,7 +3,8 @@
 Aplicativo desktop modular desenvolvido com Wails (Go + Svelte) para auxiliar pessoas com TDAH na organização de ideias e tarefas.
 
 <img width="1385" height="890" alt="image" src="https://github.com/user-attachments/assets/b767111d-64f5-474b-849a-316817b57a74" />
-
+## Download
+<a href="https://github.com/droidalex/Organizador-TDAH/releases/download/1.0.0/tdah-organizer.exe">Organizador-TDAH_v1.0.0</a>
 ## Funcionalidades
 
 ### Módulo Ideias/Notas
